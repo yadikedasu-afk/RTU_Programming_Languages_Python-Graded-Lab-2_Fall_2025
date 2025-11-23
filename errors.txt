@@ -1,0 +1,7 @@
+db.csv: flight_id,origin,destination,departure_datetime,arrival_datetime,price => invalid flight_id
+db.csv: WRONGLINE_TOO_FEW_FIELDS => incorrect number of fields
+db.csv: BA,,LHR,2025-12-03 12:00,2025-12-03 14:00,200 => invalid origin code
+db.csv: OSL123,OSL,RIX,INVALID,2025-12-05 10:20,95.00 => invalid departure datetime
+db.csv: QR8888,DOH,SYD,2025-12-01 22:00,2025-12-01 15:00,800.00 => arrival must be after departure
+db.csv: DP12,MOW,RIX,2025-12-03 09:00,2025-12-03 13:00,-55.10 => invalid price value
+db.csv: AAA111111,HEL,RIX,2025-12-06 05:00,2025-12-06 07:30,180.00 => invalid flight_id

@@ -1,0 +1,50 @@
+[
+    {
+        "flight_id": "UA820",
+        "origin": "JFK",
+        "destination": "FRA",
+        "departure_datetime": "2025-12-01 14:20",
+        "arrival_datetime": "2025-12-02 03:45",
+        "price": 620.5
+    },
+    {
+        "flight_id": "SK144",
+        "origin": "ARN",
+        "destination": "CPH",
+        "departure_datetime": "2025-12-05 09:10",
+        "arrival_datetime": "2025-12-05 10:15",
+        "price": 88.99
+    },
+    {
+        "flight_id": "BT509",
+        "origin": "RIX",
+        "destination": "AMS",
+        "departure_datetime": "2025-12-03 07:00",
+        "arrival_datetime": "2025-12-03 08:40",
+        "price": 150.0
+    },
+    {
+        "flight_id": "LH401",
+        "origin": "FRA",
+        "destination": "JFK",
+        "departure_datetime": "2025-12-10 10:00",
+        "arrival_datetime": "2025-12-10 13:00",
+        "price": 499.0
+    },
+    {
+        "flight_id": "AY712",
+        "origin": "HEL",
+        "destination": "OSL",
+        "departure_datetime": "2025-12-04 11:50",
+        "arrival_datetime": "2025-12-04 12:40",
+        "price": 120.4
+    },
+    {
+        "flight_id": "TK1590",
+        "origin": "IST",
+        "destination": "RIX",
+        "departure_datetime": "2025-12-02 18:00",
+        "arrival_datetime": "2025-12-02 20:35",
+        "price": 210.0
+    }
+]
